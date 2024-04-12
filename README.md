@@ -11,3 +11,5 @@
 2023.04.10:  Read Paper
 
 2023.04.11:  Read second paper. Try to find some possible clients
+
+2023.04.12:  Develop the project and dsicuss ideas with my friends.
