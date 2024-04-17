@@ -17,3 +17,5 @@
 2024.04.15: have a coffee chat and talk with other AI startups founders.
 
 2024.04.16: review model description
+
+2024.04.17: prepare dynamic programming
