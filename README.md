@@ -19,3 +19,6 @@
 2024.04.16: review model description
 
 2024.04.17: prepare dynamic programming
+
+2024.04.18-2024.05.03: Continue Studying ML and NLP models
+discuss startup details with other people. Learn others ideas
