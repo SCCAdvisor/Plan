@@ -22,3 +22,5 @@
 
 2024.04.18-2024.05.03: Continue Studying ML and NLP models
 discuss startup details with other people. Learn others ideas
+
+2024.05.04-2024.05.10: research on GPT API and other AI models.
